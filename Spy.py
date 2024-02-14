@@ -5,11 +5,16 @@ import random
 def main():
     st.title("Spy Game Setup")
 
+    if 'num_players' not in st.session_state:
+        st.session_state.num_players = 4
+    if 'num_spies' not in st.session_state:
+        st.session_state.num_spies = 1
     # Selectbox for number of players
-    num_players = st.selectbox("Select number of players:", list(range(3, 16)))
+
+    num_players = st.selectbox("Select number of players:", list(range(3, 16)), index= st.session_state.num_players-3)
 
     # Selectbox for number of spies
-    num_spies = st.selectbox("Select number of spies:", list(range(1, 6)))
+    num_spies = st.selectbox("Select number of spies:", list(range(1, 6)),index= st.session_state.num_spies-1)
 
     # Selectbox for category
     category = st.selectbox("Select category:", ["Object", "Animal", "Job", "City", "Country"])
@@ -34,6 +39,8 @@ def start_game(num_players, num_spies, category):
 
     st.session_state.roles = roles
     st.session_state.category = category
+    st.session_state.num_players = num_players
+    st.session_state.num_spies = num_spies
 
     st.session_state.counter = 0
     st.session_state.show_secret = False
