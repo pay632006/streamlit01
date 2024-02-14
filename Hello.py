@@ -20,6 +20,7 @@ def main():
 
 def start_game(num_players, num_spies, category):
     st.write(f"Starting game with {num_players} players, {num_spies} spies, and category {category}")
+    st.write("To start the game go to the Roles page!")
 
     # Generate random spy indices
     spy_indices = random.sample(range(num_players), num_spies)
