@@ -26,7 +26,7 @@ def main():
         else:
             st.write("Spy")
     elif st.session_state.counter >= K:
-        st.write("Next")
+        st.write("Start!")
         st.session_state.show_secret = False
     if  st.session_state.counter == 0:
         st.write(f"Player 1")
