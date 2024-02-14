@@ -24,12 +24,12 @@ def main():
 
     with col2:
         text_container = st.text("********")  # Display dynamic text
-        if st.button("Show 2"): 
+        if st.button("2-- Hide"): 
             st.session_state.show_secret = False 
             text_container.text("********")  
     with col1:
         st.text(text1)  # Display dynamic text
-        if st.button("Show 1"):
+        if st.button("1-- Show"):
             if st.session_state.counter < K:
                 st.session_state.show_secret = True
                 st.session_state.counter += 1
@@ -38,7 +38,7 @@ def main():
                         text2 = (f"{st.session_state.secret}")
 
                     else:
-                        text2 = ("Spy")
+                        text2 = ("Spy جاسوس بد جنس ")
                 else:
                     text2 = ("********")
             else:

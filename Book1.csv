@@ -1,312 +1,310 @@
-﻿name;cat
-1. کتابخانه (Ketabkhane) - Library;Object
-2. کامپیوتر (Computer) - Computer;Object
-3. گوشی موبایل (Gushi Mobile) - Mobile Phone;Object
-4. لپ تاپ (Laptop) - Laptop;Object
-5. میز (Miz) - Table;Object
-6. صندلی (Sandali) - Chair;Object
-7. ماشین (Machine) - Car;Object
-8. کمد (Komod) - Wardrobe;Object
-9. تلویزیون (Television) - Television;Object
-10. کرسی (Korsi) - Stool;Object
-11. کتاب (Ketab) - Book;Object
-12. میز نهارخوری (Miz-e Naharkhori) - Dining Table;Object
-13. یخچال (Yakhchal) - Refrigerator;Object
-14. فریزر (Freezer) - Freezer;Object
-15. کرکره (Korkoreh) - Curtain;Object
-16. سرویس خواب (Sarvis-e Khwab) - Bedroom Set;Object
-17. پنجره (Panjare) - Window;Object
-18. درب (Darb) - Door;Object
-19. تخت (Takht) - Bed;Object
-20. چراغ (Charagh) - Lamp;Object
-21. ساعت دیواری (Saat-e Divari) - Wall Clock;Object
-22. لامپ (Lamp) - Bulb;Object
-23. پتو (Pato) - Blanket;Object
-24. بالش (Balush) - Pillow;Object
-25. مبل (Mobl) - Sofa;Object
-26. کتیبه (Katibeh) - Plaque;Object
-27. زیرپایی (Zirpaei) - Carpet;Object
-28. پارچه (Parcheh) - Fabric;Object
-29. میز تلویزیون (Miz-e Television) - TV Stand;Object
-30. آینه (Ainah) - Mirror;Object
-31. گنجه (Gonjeh) - Safe;Object
-32. ترموستات (Thermostat) - Thermostat;Object
-33. پارچه‌ی پنجره (Parcheh-ye Panjare) - Window Curtain;Object
-34. میز رومیزی (Miz-e Rumizi) - Desk;Object
-35. میز آشپزخانه (Miz-e Ashpazkhane) - Kitchen Table;Object
-36. قفسه (Ghafaseh) - Shelf;Object
-37. لباس شستشو (Lebas-e Shostesho) - Laundry Basket;Object
-38. آباژور (Abajour) - Lampshade;Object
-39. میز کتاب‌خوان (Miz-e Ketabkhan) - Study Table;Object
-40. تلفن (Telephone) - Telephone;Object
-41. پتوی دماغ (Pato-ye Demagh) - Brain Blanket;Object
-42. ظرفیت (Zarf) - Cup;Object
-43. بشقاب (Basghab) - Plate;Object
-44. قاشق (Qashogh) - Spoon;Object
-45. چنگال (Changal) - Fork;Object
-46. ماگ (Mug) - Mug;Object
-47. کاسه (Kaseh) - Bowl;Object
-48. قابلی (Ghabeli) - Glass;Object
-49. کارت (Card) - Card;Object
-50. کیف پول (Kif-e Pool) - Wallet;Object
-51. کفش (Kafsh) - Shoe;Object
-52. کلاه (Kolah) - Hat;Object
-53. لباس (Lebas) - Clothes;Object
-54. کلاه کتانی (Kolah-e Katan) - Straw Hat;Object
-55. کلاه ورزشی (Kolah-e Varzeshi) - Sports Cap;Object
-56. کیف (Kif) - Bag;Object
-57. کمربند (Kamarband) - Belt;Object
-58. دستکش (Dastkosh) - Gloves;Object
-59. ساعت مچی (Saat-e Machi) - Wristwatch;Object
-60. زنجیر (Zanjir) - Chain;Object
-61. دستبند (Dastband) - Bracelet;Object
-62. گردنبند (Gardanband) - Necklace;Object
-63. طلاق (Talaq) - Ring;Object
-64. گوشواره (Goshoare) - Earring;Object
-65. ستاره (Setareh) - Star;Object
-66. قمری (Ghamari) - Moon;Object
-67. آفتاب (Aftab) - Sun;Object
-68. کلید (Kelid) - Key;Object
-69. قفل (Ghofl) - Lock;Object
-71. تابلو (Tablo) - Painting;Object
-72. نقاشی (Naghashi) - Drawing;Object
-73. عکس (Aks) - Photo;Object
-74. مداد (Medad) - Pencil;Object
-75. پاکت (Paket) - Pocket;Object
-76. دفتر (Daftar) - Notebook;Object
-77. مداد رنگی (Medad-e Rangi) - Colored Pencil;Object
-78. خودکار (Khodkar) - Pen;Object
-79. پاپیون (Papion) - Bowtie;Object
-80. ساعت جیبی (Saat-e Jibi) - Pocket Watch;Object
-81. سرپیچ (Sarpich) - Screw;Object
-82. پیچ (Pich) - Bolt;Object
-83. متر (Meter) - Meter;Object
-84. پایه (Payeh) - Stand;Object
-85. ابریشم (Abrisham) - Silk;Object
-86. سوپاپ (Supap) - Soap;Object
-87. شامپو (Shampoo) - Shampoo;Object
-88. مسواک (Meswak) - Toothbrush;Object
-89. خمیر دندان (Khamir-e Dandan) - Toothpaste;Object
-90. اسکناس (Eskanass) - Banknote;Object
-91. سکه (Sekke) - Coin;Object
-92. کارت اعتباری (Kart-e Etebari) - Credit Card;Object
-93. اسکناس (Eskanass) - Banknote;Object
-94. سرپیچ (Sarpich) - Screw;Object
-95. پیچ (Pich) - Bolt;Object
-96. متر (Meter) - Meter;Object
-97. پایه (Payeh) - Stand;Object
-98. کلاه (Kolah) - Hat;Object
-99. کیف (Kif) - Bag;Object
-100. ستاره (Setareh) - Star;Object
-;
-1. گربه (Gorbe) - Cat;Animal
-2. سگ (Sag) - Dog;Animal
-3. خرگوش (Khargoosh) - Rabbit;Animal
-4. موش (Moosh) - Mouse;Animal
-5. خوک (Khook) - Pig;Animal
-6. گاو (Gav) - Cow;Animal
-7. گوسفند (Goosfand) - Sheep;Animal
-8. بز (Boz) - Goat;Animal
-9. اسب (Asb) - Horse;Animal
-10. الاغ (Alagh) - Donkey;Animal
-11. زنبور (Zanboor) - Bee;Animal
-12. کبوتر (Kabootar) - Pigeon;Animal
-13. کفتار (Koftar) - Sparrow;Animal
-14. بلبل (Bolbol) - Nightingale;Animal
-15. پرنده (Parandeh) - Bird;Animal
-16. پلنگ (Palang) - Leopard;Animal
-17. گراز (Giraz) - Deer;Animal
-18. شیر (Shir) - Lion;Animal
-19. ببر (Babar) - Tiger;Animal
-20. خرس (Khers) - Bear;Animal
-21. گرگ (Gorg) - Wolf;Animal
-22. روباه (Rubah) - Fox;Animal
-23. زرافه (Zarafah) - Giraffe;Animal
-24. افعی (Afaee) - Snake;Animal
-25. مار (Mar) - Snake;Animal
-26. عقرب (Aghrab) - Scorpion;Animal
-27. مارمولک (Marmoolak) - Frog;Animal
-28. چغوک (Choghook) - Finch;Animal
-29. سنجاب (Sanjab) - Squirrel;Animal
-30. مومیایی (Mummyayi) - Mummy;Animal
-31. کوالا (Koala) - Koala;Animal
-32. پاندا (Panda) - Panda;Animal
-33. زنبورعسل (Zanboor-e Asal) - Honeybee;Animal
-34. گورکن (Gurkan) - Gopher;Animal
-35. توکان (Toucan) - Toucan;Animal
-36. نعام (Naam) - Ostrich;Animal
-37. شتر (Shotor) - Camel;Animal
-38. فیل (Fil) - Elephant;Animal
-39. جوجه تیغی (Jooje Tiqee) - Hedgehog;Animal
-40. همسرد (Hamsarad) - Opossum;Animal
-41. گوزن (Goozan) - Gazelle;Animal
-42. کوسه (Kooshe) - Shark;Animal
-43. اژدها (Azhdaha) - Dragon;Animal
-44. آهو (Ahu) - Deer;Animal
-45. پلوسک (Polosk) - Flea;Animal
-46. مورچه (Morche) - Ant;Animal
-47. چمپانزه (Chimpanzee) - Chimpanzee;Animal
-48. گوریل (Goril) - Gorilla;Animal
-49. اردک (Ardek) - Duck;Animal
-50. مرغ (Morgh) - Chicken;Animal
-51. غاز (Ghaz) - Goose;Animal
-52. جوجه (Jooje) - Chick;Animal
-53. پنگوئن (Penguin) - Penguin;Animal
-54. خرباز (Khorbaz) - Vulture;Animal
-55. کلاغ (Kalagh) - Crow;Animal
-56. قرقاول (Gorghaoul) - Crow;Animal
-57. پریکان (Parikan) - Parrot;Animal
-58. بوفالو (Buffalo) - Buffalo;Animal
-59. گاومیش (Gavmish) - Bison;Animal
-60. شترمرغ (Shotor Morgh) - Ostrich;Animal
-61. خزنده (Khozande) - Lizard;Animal
-62. گوهرشکار (Gouharshkar) - Hawk;Animal
-63. جغد (Joghd) - Owl;Animal
-64. پیش‌زن (Pishzan) - Quail;Animal
-65. بوقلمون (Buqalmoon) - Turkey;Animal
-66. لاک‌پشت (Lakposht) - Turtle;Animal
-67. زالو (Zalo) - Leech;Animal
-68. پروانه (Parvane) - Butterfly;Animal
-69. شپش (Shaposh) - Louse;Animal
-70. تیره‌تیغی (Tir-e Tiqee) - Porcupine;Animal
-71. سیمرغ (Simorgh) - Simurgh;Animal
-72. اژدهای آتشین (Azhdaha-ye Atashin) - Fire-breathing Dragon;Animal
-73. گل‌آلود (Gol-alood) - Worm-eaten;Animal
-74. میمون (Meymoon) - Monkey;Animal
-75. ژولیدو (Zhooleedo) - Zoolido;Animal
-76. سیاه‌چاله (Siah-chaleh) - Black Hole;Animal
-77. مور (Mor) - Ant;Animal
-78. کرم (Kerm) - Worm;Animal
-79. لسکری (Laskari) - Weasel;Animal
-80. خرس‌کوهی (Khers-kouhi) - Mountain Bear;Animal
-81. خوک‌خوار (Khookhvar) - Pig-eater;Animal
-82. بلبل‌زبان (Bolbol-zaban) - Nightingale-tongued;Animal
-83. چراق (Char;Animal
-84. چغندر (Choghandar) - Beet;Animal
-85. کلک (Kolk) - Quail;Animal
-86. بز‌آهنگ (Boz-ahang) - Goat-singer;Animal
-87. سوسمار (Sousmar) - Leech;Animal
-88. عقاب (Aqab) - Eagle;Animal
-89. بادبادک (Badbadak) - Kite;Animal
-90. مرغابی (Morghabi) - Seagull;Animal
-91. بلدرچین (Baladarchin) - Quail;Animal
-92. خرطوم (Khortoom) - Antelope;Animal
-93. کفتر (Koftar) - Pigeon;Animal
-94. کلاغ‌چه (Kalagh-cheh) - Small crow;Animal
-95. کبک (Kobok) - Partridge;Animal
-96. آوازخوان (Aavazkhwan) - Singer;Animal
-97. دلقک (Delghak) - Clown;Animal
-98. دندان‌شکن (Dandan-shekkan) - Toothbreaker;Animal
-99. بوق‌بوق (Boqboq) - Squeak;Animal
-100. چلچراغ (Chelcheragh) - Twinkling;Animal
-1. سیب (Sib) - Apple;Fruit
-2. پرتقال (Porteghal) - Orange;Fruit
-3. موز (Moz) - Banana;Fruit
-4. هلو (Holoo) - Peach;Fruit
-5. خیار (Khiar) - Cucumber;Fruit
-6. خرمالو (Kharbaloo) - Plum;Fruit
-7. زردآلو (Zardaloo) - Apricot;Fruit
-8. انگور (Angoor) - Grape;Fruit
-9. هندوانه (Hendovaneh) - Watermelon;Fruit
-10. خرما (Khorma) - Date;Fruit
-11. انبه (Anbeh) - Mango;Fruit
-12. هل (Hal) - Cardamom;Fruit
-13. توت (Toot) - Berry;Fruit
-14. گوجه‌فرنگی (Gojeh-farangi) - Tomato;Fruit
-15. آلو (Aloo) - Cherry;Fruit
-16. لیمو (Limoo) - Lemon;Fruit
-17. نارنگی (Narangi) - Tangerine;Fruit
-18. انار (Anar) - Pomegranate;Fruit
-19. توت‌فرنگی (Toot-farangi) - Strawberry;Fruit
-20. آووکادو (Avocado) - Avocado;Fruit
-1. مهندس (Mohandes) - Engineer;Job
-2. پزشک (Pezeshk) - Doctor;Job
-3. معلم (Moallem) - Teacher;Job
-4. وکیل (Vakil) - Lawyer;Job
-5. نماینده فروش (Nemayandeh Foroush) - Sales Representative;Job
-6. برنامه‌نویس (Barnamenevis) - Programmer;Job
-7. مدیر (Modir) - Manager;Job
-8. معمار (Memar) - Architect;Job
-9. روزنامه‌نگار (Ruznamegar) - Journalist;Job
-10. بازیگر (Bazigar) - Actor/Actress;Job
-11. آموزشگر (Amuzeshgar) - Instructor;Job
-12. پلیس (Polis) - Police Officer;Job
-13. پرستار (Parastar) - Nurse;Job
-14. آشپز (Ashpaz) - Chef;Job
-15. نجار (Najar) - Carpenter;Job
-16. راننده (Ranandeh) - Driver;Job
-17. پستچی (Postchi) - Mail Carrier;Job
-18. کارگر (Kargar) - Worker;Job
-19. کشاورز (Keshavarz) - Farmer;Job
-20. کارآفرین (Karafarin) - Entrepreneur;Job
-21. مشاور مالی (Moshaver-e Mali) - Financial Advisor;Job
-22. مددکار اجتماعی (Madadkar-e Ejtemaei) - Social Worker;Job
-23. طراح (Tarah) - Designer;Job
-24. کارگردان (Kargerdan) - Director;Job
-25. دستیار پزشکی (Dastyar-e Pezeshki) - Medical Assistant;Job
-26. فروشنده (Foroushandeh) - Salesperson;Job
-27. تحقیق‌گر (Tahqiqgar) - Researcher;Job
-28. مدیر فروش (Modir-e Foroush) - Sales Manager;Job
-29. تکنسین (Technician) - Technician;Job
-30. مدیر پروژه (Modir-e Project) - Project Manager;Job
-;
-1. نیویورک (New York);City
-2. لندن (London);City
-3. پاریس (Paris);City
-4. طوکیو (Tokyo);City
-5. رم (Rome);City
-6. شنگهای (Shanghai);City
-7. دبی (Dubai);City
-8. استانبول (Istanbul);City
-9. بانکوک (Bangkok);City
-10. مسکو (Moscow);City
-11. هنگ کنگ (Hong Kong);City
-12. لس آنجلس (Los Angeles);City
-13. کایرو (Cairo);City
-14. برلین (Berlin);City
-15. دهلی (Delhi);City
-16. سئول (Seoul);City
-17. سیدنی (Sydney);City
-18. ریو دو ژانیرو (Rio de Janeiro);City
-19. مادرید (Madrid);City
-20. آتن (Athens);City
-21. تورنتو (Toronto);City
-22. واشنگتن دی سی (Washington, D.C.);City
-23. شیکاگو (Chicago);City
-24. سان فرانسیسکو (San Francisco);City
-25. کوالالامپور (Kuala Lumpur);City
-26. استکهلم (Stockholm);City
-27. کوپنهاگ (Copenhagen);City
-28. کالکاتا (Kolkata);City
-29. وین (Vienna);City
-30. مونیخ (Munich);City
-1. ایران (Iran);Country
-2. آمریکا (America);Country
-3. کانادا (Canada);Country
-4. چین (China);Country
-5. روسیه (Russia);Country
-6. هند (India);Country
-7. برزیل (Brazil);Country
-8. استرالیا (Australia);Country
-9. فرانسه (France);Country
-10. آلمان (Germany);Country
-11. انگلیس (England);Country
-12. ایتالیا (Italy);Country
-13. ژاپن (Japan);Country
-14. اسپانیا (Spain);Country
-15. مکزیک (Mexico);Country
-16. ترکیه (Turkey);Country
-17. هلند (Netherlands);Country
-18. سوئیس (Switzerland);Country
-19. بلژیک (Belgium);Country
-20. سوئد (Sweden);Country
-21. دانمارک (Denmark);Country
-22. نروژ (Norway);Country
-23. فنلاند (Finland);Country
-24. پرتغال (Portugal);Country
-25. گریس (Greece);Country
-26. مصر (Egypt);Country
-27. جنوب افریقا (South Africa);Country
-28. ارژانتین (Argentina);Country
-29. کلمبیا (Colombia);Country
-30. کره جنوبی (South Korea);Country
+﻿name;cat;;;;;
+ کتابخانه (Ketabkhane) - Library;Object;;;;;
+ کامپیوتر (Computer) - Computer;Object;;;;;
+ گوشی موبایل (Gushi Mobile) - Mobile Phone;Object;;;;;
+ لپ تاپ (Laptop) - Laptop;Object;;;;;
+ میز (Miz) - Table;Object;;;;;
+ صندلی (Sandali) - Chair;Object;;;;;
+ ماشین (Machine) - Car;Object;;;;;
+ کمد (Komod) - Wardrobe;Object;;;;;
+ تلویزیون (Television) - Television;Object;;;;;
+ کرسی (Korsi) - Stool;Object;;;;;
+ کتاب (Ketab) - Book;Object;;;;;
+ میز نهارخوری (Miz-e Naharkhori) - Dining Table;Object;;;;;
+ یخچال (Yakhchal) - Refrigerator;Object;;;;;
+ فریزر (Freezer) - Freezer;Object;;;;;
+ کرکره (Korkoreh) - Curtain;Object;;;;;
+ سرویس خواب (Sarvis-e Khwab) - Bedroom Set;Object;;;;;
+ پنجره (Panjare) - Window;Object;;;;;
+ درب (Darb) - Door;Object;;;;;
+ تخت (Takht) - Bed;Object;;;;;
+ چراغ (Charagh) - Lamp;Object;;;;;
+ ساعت دیواری (Saat-e Divari) - Wall Clock;Object;;;;;
+ لامپ (Lamp) - Bulb;Object;;;;;
+ پتو (Pato) - Blanket;Object;;;;;
+ بالش (Balush) - Pillow;Object;;;;;
+ مبل (Mobl) - Sofa;Object;;;;;
+ کتیبه (Katibeh) - Plaque;Object;;;;;
+ زیرپایی (Zirpaei) - Carpet;Object;;;;;
+ پارچه (Parcheh) - Fabric;Object;;;;;
+ میز تلویزیون (Miz-e Television) - TV Stand;Object;;;;;
+ آینه (Ainah) - Mirror;Object;;;;;
+ گنجه (Gonjeh) - Safe;Object;;;;;
+ ترموستات (Thermostat) - Thermostat;Object;;;;;
+ پارچه‌ی پنجره (Parcheh-ye Panjare) - Window Curtain;Object;;;;;
+ میز رومیزی (Miz-e Rumizi) - Desk;Object;;;;;
+ میز آشپزخانه (Miz-e Ashpazkhane) - Kitchen Table;Object;;;;;
+ قفسه (Ghafaseh) - Shelf;Object;;;;;
+ لباس شستشو (Lebas-e Shostesho) - Laundry Basket;Object;;;;;
+ آباژور (Abajour) - Lampshade;Object;;;;;
+ میز کتاب‌خوان (Miz-e Ketabkhan) - Study Table;Object;;;;;
+ تلفن (Telephone) - Telephone;Object;;;;;
+ پتوی دماغ (Pato-ye Demagh) - Brain Blanket;Object;;;;;
+ ظرفیت (Zarf) - Cup;Object;;;;;
+ بشقاب (Basghab) - Plate;Object;;;;;
+ قاشق (Qashogh) - Spoon;Object;;;;;
+ چنگال (Changal) - Fork;Object;;;;;
+ ماگ (Mug) - Mug;Object;;;;;
+ کاسه (Kaseh) - Bowl;Object;;;;;
+ قابلی (Ghabeli) - Glass;Object;;;;;
+ کارت (Card) - Card;Object;;;;;
+ کیف پول (Kif-e Pool) - Wallet;Object;;;;;
+ کفش (Kafsh) - Shoe;Object;;;;;
+ کلاه (Kolah) - Hat;Object;;;;;
+ لباس (Lebas) - Clothes;Object;;;;;
+ کلاه کتانی (Kolah-e Katan) - Straw Hat;Object;;;;;
+ کلاه ورزشی (Kolah-e Varzeshi) - Sports Cap;Object;;;;;
+ کیف (Kif) - Bag;Object;;;;;
+ کمربند (Kamarband) - Belt;Object;;;;;
+ دستکش (Dastkosh) - Gloves;Object;;;;;
+ ساعت مچی (Saat-e Machi) - Wristwatch;Object;;;;;
+ زنجیر (Zanjir) - Chain;Object;;;;;
+ دستبند (Dastband) - Bracelet;Object;;;;;
+ گردنبند (Gardanband) - Necklace;Object;;;;;
+ طلاق (Talaq) - Ring;Object;;;;;
+ گوشواره (Goshoare) - Earring;Object;;;;;
+ ستاره (Setareh) - Star;Object;;;;;
+ قمری (Ghamari) - Moon;Object;;;;;
+ آفتاب (Aftab) - Sun;Object;;;;;
+ کلید (Kelid) - Key;Object;;;;;
+ قفل (Ghofl) - Lock;Object;;;;;
+ تابلو (Tablo) - Painting;Object;;;;;
+ نقاشی (Naghashi) - Drawing;Object;;;;;
+ عکس (Aks) - Photo;Object;;;;;
+ مداد (Medad) - Pencil;Object;;;;;
+ پاکت (Paket) - Pocket;Object;;;;;
+ دفتر (Daftar) - Notebook;Object;;;;;
+ مداد رنگی (Medad-e Rangi) - Colored Pencil;Object;;;;;
+ خودکار (Khodkar) - Pen;Object;;;;;
+ پاپیون (Papion) - Bowtie;Object;;;;;
+ ساعت جیبی (Saat-e Jibi) - Pocket Watch;Object;;;;;
+ سرپیچ (Sarpich) - Screw;Object;;;;;
+ پیچ (Pich) - Bolt;Object;;;;;
+ متر (Meter) - Meter;Object;;;;;
+ پایه (Payeh) - Stand;Object;;;;;
+ ابریشم (Abrisham) - Silk;Object;;;;;
+ سوپاپ (Supap) - Soap;Object;;;;;
+ شامپو (Shampoo) - Shampoo;Object;;;;;
+ مسواک (Meswak) - Toothbrush;Object;;;;;
+ خمیر دندان (Khamir-e Dandan) - Toothpaste;Object;;;;;
+ اسکناس (Eskanass) - Banknote;Object;;;;;
+ سکه (Sekke) - Coin;Object;;;;;
+ کارت اعتباری (Kart-e Etebari) - Credit Card;Object;;;;;
+ اسکناس (Eskanass) - Banknote;Object;;;;;
+ سرپیچ (Sarpich) - Screw;Object;;;;;
+ پیچ (Pich) - Bolt;Object;;;;;
+ متر (Meter) - Meter;Object;;;;;
+ پایه (Payeh) - Stand;Object;;;;;
+ کلاه (Kolah) - Hat;Object;;;;;
+ کیف (Kif) - Bag;Object;;;;;
+ ستاره (Setareh) - Star;Object;;;;;
+ گربه (Gorbe) - Cat;Animal;;;;;
+ سگ (Sag) - Dog;Animal;;;;;
+ خرگوش (Khargoosh) - Rabbit;Animal;;;;;
+ موش (Moosh) - Mouse;Animal;;;;;
+ خوک (Khook) - Pig;Animal;;;;;
+ گاو (Gav) - Cow;Animal;;;;;
+ گوسفند (Goosfand) - Sheep;Animal;;;;;
+ بز (Boz) - Goat;Animal;;;;;
+ اسب (Asb) - Horse;Animal;;;;;
+ الاغ (Alagh) - Donkey;Animal;;;;;
+ زنبور (Zanboor) - Bee;Animal;;;;;
+ کبوتر (Kabootar) - Pigeon;Animal;;;;;
+ کفتار (Koftar) - Sparrow;Animal;;;;;
+ بلبل (Bolbol) - Nightingale;Animal;;;;;
+ پرنده (Parandeh) - Bird;Animal;;;;;
+ پلنگ (Palang) - Leopard;Animal;;;;;
+ گراز (Giraz) - Deer;Animal;;;;;
+ شیر (Shir) - Lion;Animal;;;;;
+ ببر (Babar) - Tiger;Animal;;;;;
+ خرس (Khers) - Bear;Animal;;;;;
+ گرگ (Gorg) - Wolf;Animal;;;;;
+ روباه (Rubah) - Fox;Animal;;;;;
+ زرافه (Zarafah) - Giraffe;Animal;;;;;
+ افعی (Afaee) - Snake;Animal;;;;;
+ مار (Mar) - Snake;Animal;;;;;
+ عقرب (Aghrab) - Scorpion;Animal;;;;;
+ مارمولک (Marmoolak) - Frog;Animal;;;;;
+ چغوک (Choghook) - Finch;Animal;;;;;
+ سنجاب (Sanjab) - Squirrel;Animal;;;;;
+ مومیایی (Mummyayi) - Mummy;Animal;;;;;
+ کوالا (Koala) - Koala;Animal;;;;;
+ پاندا (Panda) - Panda;Animal;;;;;
+ زنبورعسل (Zanboor-e Asal) - Honeybee;Animal;;;;;
+ گورکن (Gurkan) - Gopher;Animal;;;;;
+ توکان (Toucan) - Toucan;Animal;;;;;
+ نعام (Naam) - Ostrich;Animal;;;;;
+ شتر (Shotor) - Camel;Animal;;;;;
+ فیل (Fil) - Elephant;Animal;;;;;
+ جوجه تیغی (Jooje Tiqee) - Hedgehog;Animal;;;;;
+ همسرد (Hamsarad) - Opossum;Animal;;;;;
+ گوزن (Goozan) - Gazelle;Animal;;;;;
+ کوسه (Kooshe) - Shark;Animal;;;;;
+ اژدها (Azhdaha) - Dragon;Animal;;;;;
+ آهو (Ahu) - Deer;Animal;;;;;
+ پلوسک (Polosk) - Flea;Animal;;;;;
+ مورچه (Morche) - Ant;Animal;;;;;
+ چمپانزه (Chimpanzee) - Chimpanzee;Animal;;;;;
+ گوریل (Goril) - Gorilla;Animal;;;;;
+ اردک (Ardek) - Duck;Animal;;;;;
+ مرغ (Morgh) - Chicken;Animal;;;;;
+ غاز (Ghaz) - Goose;Animal;;;;;
+ جوجه (Jooje) - Chick;Animal;;;;;
+ پنگوئن (Penguin) - Penguin;Animal;;;;;
+ خرباز (Khorbaz) - Vulture;Animal;;;;;
+ کلاغ (Kalagh) - Crow;Animal;;;;;
+ قرقاول (Gorghaoul) - Crow;Animal;;;;;
+ پریکان (Parikan) - Parrot;Animal;;;;;
+ بوفالو (Buffalo) - Buffalo;Animal;;;;;
+ گاومیش (Gavmish) - Bison;Animal;;;;;
+ شترمرغ (Shotor Morgh) - Ostrich;Animal;;;;;
+ خزنده (Khozande) - Lizard;Animal;;;;;
+ گوهرشکار (Gouharshkar) - Hawk;Animal;;;;;
+ جغد (Joghd) - Owl;Animal;;;;;
+ پیش‌زن (Pishzan) - Quail;Animal;;;;;
+ بوقلمون (Buqalmoon) - Turkey;Animal;;;;;
+ لاک‌پشت (Lakposht) - Turtle;Animal;;;;;
+ زالو (Zalo) - Leech;Animal;;;;;
+ پروانه (Parvane) - Butterfly;Animal;;;;;
+ شپش (Shaposh) - Louse;Animal;;;;;
+ تیره‌تیغی (Tir-e Tiqee) - Porcupine;Animal;;;;;
+ سیمرغ (Simorgh) - Simurgh;Animal;;;;;
+ اژدهای آتشین (Azhdaha-ye Atashin) - Fire-breathing Dragon;Animal;;;;;
+ گل‌آلود (Gol-alood) - Worm-eaten;Animal;;;;;
+ میمون (Meymoon) - Monkey;Animal;;;;;
+ ژولیدو (Zhooleedo) - Zoolido;Animal;;;;;
+ سیاه‌چاله (Siah-chaleh) - Black Hole;Animal;;;;;
+ مور (Mor) - Ant;Animal;;;;;
+ کرم (Kerm) - Worm;Animal;;;;;
+ لسکری (Laskari) - Weasel;Animal;;;;;
+ خرس‌کوهی (Khers-kouhi) - Mountain Bear;Animal;;;;;
+ خوک‌خوار (Khookhvar) - Pig-eater;Animal;;;;;
+ بلبل‌زبان (Bolbol-zaban) - Nightingale-tongued;Animal;;;;;
+ چراق (Char;Animal;;;;;
+ چغندر (Choghandar) - Beet;Animal;;;;;
+ کلک (Kolk) - Quail;Animal;;;;;
+ بز‌آهنگ (Boz-ahang) - Goat-singer;Animal;;;;;
+ سوسمار (Sousmar) - Leech;Animal;;;;;
+ عقاب (Aqab) - Eagle;Animal;;;;;
+ بادبادک (Badbadak) - Kite;Animal;;;;;
+ مرغابی (Morghabi) - Seagull;Animal;;;;;
+ بلدرچین (Baladarchin) - Quail;Animal;;;;;
+ خرطوم (Khortoom) - Antelope;Animal;;;;;
+ کفتر (Koftar) - Pigeon;Animal;;;;;
+ کلاغ‌چه (Kalagh-cheh) - Small crow;Animal;;;;;
+ کبک (Kobok) - Partridge;Animal;;;;;
+ آوازخوان (Aavazkhwan) - Singer;Animal;;;;;
+ دلقک (Delghak) - Clown;Animal;;;;;
+ دندان‌شکن (Dandan-shekkan) - Toothbreaker;Animal;;;;;
+ بوق‌بوق (Boqboq) - Squeak;Animal;;;;;
+ چلچراغ (Chelcheragh) - Twinkling;Animal;;;;;
+ سیب (Sib) - Apple;Fruit;;;;;
+ پرتقال (Porteghal) - Orange;Fruit;;;;;
+ موز (Moz) - Banana;Fruit;;;;;
+ هلو (Holoo) - Peach;Fruit;;;;;
+ خیار (Khiar) - Cucumber;Fruit;;;;;
+ خرمالو (Kharbaloo) - Plum;Fruit;;;;;
+ زردآلو (Zardaloo) - Apricot;Fruit;;;;;
+ انگور (Angoor) - Grape;Fruit;;;;;
+ هندوانه (Hendovaneh) - Watermelon;Fruit;;;;;
+ خرما (Khorma) - Date;Fruit;;;;;
+ انبه (Anbeh) - Mango;Fruit;;;;;
+ هل (Hal) - Cardamom;Fruit;;;;;
+ توت (Toot) - Berry;Fruit;;;;;
+ گوجه‌فرنگی (Gojeh-farangi) - Tomato;Fruit;;;;;
+ آلو (Aloo) - Cherry;Fruit;;;;;
+ لیمو (Limoo) - Lemon;Fruit;;;;;
+ نارنگی (Narangi) - Tangerine;Fruit;;;;;
+ انار (Anar) - Pomegranate;Fruit;;;;;
+ توت‌فرنگی (Toot-farangi) - Strawberry;Fruit;;;;;
+ آووکادو (Avocado) - Avocado;Fruit;;;;;
+ مهندس (Mohandes) - Engineer;Job;;;;;
+ پزشک (Pezeshk) - Doctor;Job;;;;;
+ معلم (Moallem) - Teacher;Job;;;;;
+ وکیل (Vakil) - Lawyer;Job;;;;;
+ نماینده فروش (Nemayandeh Foroush) - Sales Representative;Job;;;;;
+ برنامه‌نویس (Barnamenevis) - Programmer;Job;;;;;
+ مدیر (Modir) - Manager;Job;;;;;
+ معمار (Memar) - Architect;Job;;;;;
+ روزنامه‌نگار (Ruznamegar) - Journalist;Job;;;;;
+ بازیگر (Bazigar) - Actor/Actress;Job;;;;;
+ آموزشگر (Amuzeshgar) - Instructor;Job;;;;;
+ پلیس (Polis) - Police Officer;Job;;;;;
+ پرستار (Parastar) - Nurse;Job;;;;;
+ آشپز (Ashpaz) - Chef;Job;;;;;
+ نجار (Najar) - Carpenter;Job;;;;;
+ راننده (Ranandeh) - Driver;Job;;;;;
+ پستچی (Postchi) - Mail Carrier;Job;;;;;
+ کارگر (Kargar) - Worker;Job;;;;;
+ کشاورز (Keshavarz) - Farmer;Job;;;;;
+ کارآفرین (Karafarin) - Entrepreneur;Job;;;;;
+ مشاور مالی (Moshaver-e Mali) - Financial Advisor;Job;;;;;
+ مددکار اجتماعی (Madadkar-e Ejtemaei) - Social Worker;Job;;;;;
+ طراح (Tarah) - Designer;Job;;;;;
+ کارگردان (Kargerdan) - Director;Job;;;;;
+ دستیار پزشکی (Dastyar-e Pezeshki) - Medical Assistant;Job;;;;;
+ فروشنده (Foroushandeh) - Salesperson;Job;;;;;
+ تحقیق‌گر (Tahqiqgar) - Researcher;Job;;;;;
+ مدیر فروش (Modir-e Foroush) - Sales Manager;Job;;;;;
+ تکنسین (Technician) - Technician;Job;;;;;
+ مدیر پروژه (Modir-e Project) - Project Manager;Job;;;;;
+ نیویورک (New York);City;;;;;
+ لندن (London);City;;;;;
+ پاریس (Paris);City;;;;;
+ طوکیو (Tokyo);City;;;;;
+ رم (Rome);City;;;;;
+ شنگهای (Shanghai);City;;;;;
+ دبی (Dubai);City;;;;;
+ استانبول (Istanbul);City;;;;;
+ بانکوک (Bangkok);City;;;;;
+ مسکو (Moscow);City;;;;;
+ هنگ کنگ (Hong Kong);City;;;;;
+ لس آنجلس (Los Angeles);City;;;;;
+ کایرو (Cairo);City;;;;;
+ برلین (Berlin);City;;;;;
+ دهلی (Delhi);City;;;;;
+ سئول (Seoul);City;;;;;
+ سیدنی (Sydney);City;;;;;
+ ریو دو ژانیرو (Rio de Janeiro);City;;;;;
+ مادرید (Madrid);City;;;;;
+ آتن (Athens);City;;;;;
+ تورنتو (Toronto);City;;;;;
+ واشنگتن دی سی (Washington, D;City;;;;C;)
+ شیکاگو (Chicago);City;;;;;
+ سان فرانسیسکو (San Francisco);City;;;;;
+ کوالالامپور (Kuala Lumpur);City;;;;;
+ استکهلم (Stockholm);City;;;;;
+ کوپنهاگ (Copenhagen);City;;;;;
+ کالکاتا (Kolkata);City;;;;;
+ وین (Vienna);City;;;;;
+ مونیخ (Munich);City;;;;;
+ ایران (Iran);Country;;;;;
+ آمریکا (America);Country;;;;;
+ کانادا (Canada);Country;;;;;
+ چین (China);Country;;;;;
+ روسیه (Russia);Country;;;;;
+ هند (India);Country;;;;;
+ برزیل (Brazil);Country;;;;;
+ استرالیا (Australia);Country;;;;;
+ فرانسه (France);Country;;;;;
+ آلمان (Germany);Country;;;;;
+ انگلیس (England);Country;;;;;
+ ایتالیا (Italy);Country;;;;;
+ ژاپن (Japan);Country;;;;;
+ اسپانیا (Spain);Country;;;;;
+ مکزیک (Mexico);Country;;;;;
+ ترکیه (Turkey);Country;;;;;
+ هلند (Netherlands);Country;;;;;
+ سوئیس (Switzerland);Country;;;;;
+ بلژیک (Belgium);Country;;;;;
+ سوئد (Sweden);Country;;;;;
+ دانمارک (Denmark);Country;;;;;
+ نروژ (Norway);Country;;;;;
+ فنلاند (Finland);Country;;;;;
+ پرتغال (Portugal);Country;;;;;
+ گریس (Greece);Country;;;;;
+ مصر (Egypt);Country;;;;;
+ جنوب افریقا (South Africa);Country;;;;;
+ ارژانتین (Argentina);Country;;;;;
+ کلمبیا (Colombia);Country;;;;;
+ کره جنوبی (South Korea);Country;;;;;
