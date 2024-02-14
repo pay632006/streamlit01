@@ -30,7 +30,8 @@ def main():
     with col1:
         st.text(text1)  # Display dynamic text
         if st.button("1-- Show"):
-            if st.session_state.counter < K:
+
+            if st.session_state.counter < K and st.session_state.show_secret == False:
                 st.session_state.show_secret = True
                 st.session_state.counter += 1
                 if (st.session_state.counter != 0 and st.session_state.counter <= K)  or (st.session_state.show_secret == True):
@@ -43,6 +44,7 @@ def main():
                     text2 = ("********")
             else:
                 text2 = ("********")
+                st.session_state.show_secret = False
             text_container.text(text2)  
 
 if __name__ == "__main__":
