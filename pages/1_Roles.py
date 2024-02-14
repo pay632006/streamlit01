@@ -3,7 +3,7 @@ import streamlit as st
 K = len(st.session_state.roles)
 # Streamlit app
 def main():
-    st.title("Show and Hide Secret")
+    st.title("Secret or Spy")
 
     # Session state to keep track of visibility
     if 'show_secret' not in st.session_state:
