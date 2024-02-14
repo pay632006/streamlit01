@@ -30,7 +30,7 @@ def start_game(num_players, num_spies, category):
     # Assign spy roles
     for index in spy_indices:
         roles[index] = "Spy"
-    
+
     st.session_state.roles = roles
     st.session_state.category = category
 
