@@ -36,6 +36,7 @@ def start_game(num_players, num_spies, category):
     st.session_state.category = category
 
     st.session_state.counter = 0
+    st.session_state.show_secret = False
     df = pd.read_csv("Book1.csv", sep=";")
 
     filtered_data = df[df['cat'] == category]
