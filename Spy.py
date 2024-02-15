@@ -17,7 +17,7 @@ def main():
     num_spies = st.selectbox("Select number of spies:", list(range(1, 6)),index= st.session_state.num_spies-1)
 
     # Selectbox for category
-    category = st.selectbox("Select category:", ["Object", "Animal", "Job", "City", "Country"])
+    category = st.selectbox("Select category:", ["Object", "Animal", "Job", "City", "Country", "Fruit", "Magical"])
 
     # Button to start the game
     if st.button("Start"):
