@@ -1,319 +1,534 @@
-﻿name;cat
- کتابخانه (Ketabkhane) - Library;Object
- کامپیوتر (Computer) - Computer;Object
- گوشی موبایل (Gushi Mobile) - Mobile Phone;Object
- لپ تاپ (Laptop) - Laptop;Object
- میز (Miz) - Table;Object
- صندلی (Sandali) - Chair;Object
- ماشین (Machine) - Car;Object
- کمد (Komod) - Wardrobe;Object
- تلویزیون (Television) - Television;Object
- کرسی (Korsi) - Stool;Object
- کتاب (Ketab) - Book;Object
- میز نهارخوری (Miz-e Naharkhori) - Dining Table;Object
- یخچال (Yakhchal) - Refrigerator;Object
- فریزر (Freezer) - Freezer;Object
- کرکره (Korkoreh) - Curtain;Object
- سرویس خواب (Sarvis-e Khwab) - Bedroom Set;Object
- پنجره (Panjare) - Window;Object
- درب (Darb) - Door;Object
- تخت (Takht) - Bed;Object
- چراغ (Charagh) - Lamp;Object
- ساعت دیواری (Saat-e Divari) - Wall Clock;Object
- لامپ (Lamp) - Bulb;Object
- پتو (Pato) - Blanket;Object
- بالش (Balush) - Pillow;Object
- مبل (Mobl) - Sofa;Object
- کتیبه (Katibeh) - Plaque;Object
- زیرپایی (Zirpaei) - Carpet;Object
- پارچه (Parcheh) - Fabric;Object
- میز تلویزیون (Miz-e Television) - TV Stand;Object
- آینه (Ainah) - Mirror;Object
- گنجه (Gonjeh) - Safe;Object
- ترموستات (Thermostat) - Thermostat;Object
- پرده (Parcheh-ye Panjare) - Window Curtain;Object
- میز  (Miz-e Rumizi) - Desk;Object
- میز آشپزخانه (Miz-e Ashpazkhane) - Kitchen Table;Object
- قفسه (Ghafaseh) - Shelf;Object
- لباس شستشو (Lebas-e Shostesho) - Laundry Basket;Object
- آباژور (Abajour) - Lampshade;Object
- میز کتاب‌خوانی (Miz-e Ketabkhan) - Study Table;Object
- تلفن (Telephone) - Telephone;Object
- پتو (Pato-ye Demagh) - Brain Blanket;Object
- بشقاب (Basghab) - Plate;Object
- قاشق (Qashogh) - Spoon;Object
- چنگال (Changal) - Fork;Object
- ماگ (Mug) - Mug;Object
- کاسه (Kaseh) - Bowl;Object
- شیشه (Ghabeli) - Glass;Object
- کارت (Card) - Card;Object
- کیف پول (Kif-e Pool) - Wallet;Object
- کفش (Kafsh) - Shoe;Object
- کلاه (Kolah) - Hat;Object
- لباس (Lebas) - Clothes;Object
- کلاه کتانی (Kolah-e Katan) - Straw Hat;Object
- کلاه ورزشی (Kolah-e Varzeshi) - Sports Cap;Object
- کیف (Kif) - Bag;Object
- کمربند (Kamarband) - Belt;Object
- دستکش (Dastkosh) - Gloves;Object
- ساعت مچی (Saat-e Machi) - Wristwatch;Object
- زنجیر (Zanjir) - Chain;Object
- دستبند (Dastband) - Bracelet;Object
- گردنبند (Gardanband) - Necklace;Object
- گوشواره (Goshoare) - Earring;Object
- ستاره (Setareh) - Star;Object
- آفتاب (Aftab) - Sun;Object
- کلید (Kelid) - Key;Object
- قفل (Ghofl) - Lock;Object
- تابلو (Tablo) - Painting;Object
- نقاشی (Naghashi) - Drawing;Object
- عکس (Aks) - Photo;Object
- مداد (Medad) - Pencil;Object
- پاکت (Paket) - Pocket;Object
- دفتر (Daftar) - Notebook;Object
- مداد رنگی (Medad-e Rangi) - Colored Pencil;Object
- خودکار (Khodkar) - Pen;Object
- پاپیون (Papion) - Bowtie;Object
- ساعت جیبی (Saat-e Jibi) - Pocket Watch;Object
- سرپیچ (Sarpich) - Screw;Object
- پیچ (Pich) - Bolt;Object
- متر (Meter) - Meter;Object
- پایه (Payeh) - Stand;Object
- ابریشم (Abrisham) - Silk;Object
- سوپاپ (Supap) - Soap;Object
- شامپو (Shampoo) - Shampoo;Object
- مسواک (Meswak) - Toothbrush;Object
- خمیر دندان (Khamir-e Dandan) - Toothpaste;Object
- اسکناس (Eskanass) - Banknote;Object
- سکه (Sekke) - Coin;Object
- کارت اعتباری (Kart-e Etebari) - Credit Card;Object
- اسکناس (Eskanass) - Banknote;Object
- سرپیچ (Sarpich) - Screw;Object
- پیچ (Pich) - Bolt;Object
- متر (Meter) - Meter;Object
- پایه (Payeh) - Stand;Object
- کلاه (Kolah) - Hat;Object
- کیف (Kif) - Bag;Object
- ستاره (Setareh) - Star;Object
- گربه (Gorbe) - Cat;Animal
- سگ (Sag) - Dog;Animal
- خرگوش (Khargoosh) - Rabbit;Animal
- موش (Moosh) - Mouse;Animal
- خوک (Khook) - Pig;Animal
- گاو (Gav) - Cow;Animal
- گوسفند (Goosfand) - Sheep;Animal
- بز (Boz) - Goat;Animal
- اسب (Asb) - Horse;Animal
- الاغ (Alagh) - Donkey;Animal
- زنبور (Zanboor) - Bee;Animal
- کبوتر (Kabootar) - Pigeon;Animal
- کفتار (Koftar) - Sparrow;Animal
- بلبل (Bolbol) - Nightingale;Animal
- پرنده (Parandeh) - Bird;Animal
- پلنگ (Palang) - Leopard;Animal
- گراز (Giraz) - Deer;Animal
- شیر (Shir) - Lion;Animal
- ببر (Babar) - Tiger;Animal
- خرس (Khers) - Bear;Animal
- گرگ (Gorg) - Wolf;Animal
- روباه (Rubah) - Fox;Animal
- زرافه (Zarafah) - Giraffe;Animal
- افعی (Afaee) - Snake;Animal
- مار (Mar) - Snake;Animal
- عقرب (Aghrab) - Scorpion;Animal
- مارمولک (Marmoolak) - Frog;Animal
- سنجاب (Sanjab) - Squirrel;Animal
- مومیایی (Mummyayi) - Mummy;Object
- کوالا (Koala) - Koala;Animal
- پاندا (Panda) - Panda;Animal
- زنبورعسل (Zanboor-e Asal) - Honeybee;Animal
- گورکن (Gurkan) - Gopher;Animal
- شتر (Shotor) - Camel;Animal
- فیل (Fil) - Elephant;Animal
- جوجه تیغی (Jooje Tiqee) - Hedgehog;Animal
- همستر (Hamsarad) - Opossum;Animal
- گوزن (Goozan) - Gazelle;Animal
- کوسه (Kooshe) - Shark;Animal
- اژدها (Azhdaha) - Dragon;Animal
- آهو (Ahu) - Deer;Animal
- مورچه (Morche) - Ant;Animal
- شمپانزه (Chimpanzee) - Chimpanzee;Animal
- گوریل (Goril) - Gorilla;Animal
- اردک (Ardek) - Duck;Animal
- مرغ (Morgh) - Chicken;Animal
- غاز (Ghaz) - Goose;Animal
- جوجه (Jooje) - Chick;Animal
- پنگوئن (Penguin) - Penguin;Animal
- خر (Khorbaz) - Vulture;Animal
- کلاغ (Kalagh) - Crow;Animal
- قرقاول (Gorghaoul) - Crow;Animal
- پلیکان (Parikan) - Parrot;Animal
- بوفالو (Buffalo) - Buffalo;Animal
- گاومیش (Gavmish) - Bison;Animal
- شترمرغ (Shotor Morgh) - Ostrich;Animal
- خزنده (Khozande) - Lizard;Animal
- گوهرشکار (Gouharshkar) - Hawk;Animal
- جغد (Joghd) - Owl;Animal
- پیشه (Pishzan) - Quail;Animal
- بوقلمون (Buqalmoon) - Turkey;Animal
- لاک‌پشت (Lakposht) - Turtle;Animal
- زالو (Zalo) - Leech;Animal
- پروانه (Parvane) - Butterfly;Animal
- شپش (Shaposh) - Louse;Animal
- تیره‌تیغی (Tir-e Tiqee) - Porcupine;Animal
- سیمرغ (Simorgh) - Simurgh;Animal
- اژدهای آتشین (Azhdaha-ye Atashin) - Fire-breathing Dragon;Animal
- میمون (Meymoon) - Monkey;Animal
- سیاه‌چاله (Siah-chaleh) - Black Hole;Animal
- مور (Mor) - Ant;Animal
- کرم (Kerm) - Worm;Animal
- خرس‌کوهی (Khers-kouhi) - Mountain Bear;Animal
- خوک‌خوار (Khookhvar) - Pig-eater;Animal
- بلبل‌زبان (Bolbol-zaban) - Nightingale-tongued;Animal
- چراق (Char;Animal
- چغندر (Choghandar) - Beet;Fruit
- بز (Boz-ahang) - Goat-singer;Animal
- سوسمار (Sousmar) - Leech;Animal
- عقاب (Aqab) - Eagle;Animal
- بادبادک (Badbadak) - Kite;Animal
- مرغابی (Morghabi) - Seagull;Animal
- بلدرچین (Baladarchin) - Quail;Animal
- خرطوم (Khortoom) - Antelope;Animal
- کفتر (Koftar) - Pigeon;Animal
- کلاغ‌چه (Kalagh-cheh) - Small crow;Animal
- کبک (Kobok) - Partridge;Animal
- آوازخوان (Aavazkhwan) - Singer;Animal
- دلقک (Delghak) - Clown;Object
- دندان‌شکن (Dandan-shekkan) - Toothbreaker;Animal
- بوق‌بوق (Boqboq) - Squeak;Animal
- چلچراغ (Chelcheragh) - Twinkling;Object
- سیب (Sib) - Apple;Fruit
- پرتقال (Porteghal) - Orange;Fruit
- موز (Moz) - Banana;Fruit
- هلو (Holoo) - Peach;Fruit
- خیار (Khiar) - Cucumber;Fruit
- خرمالو (Kharbaloo) - Plum;Fruit
- زردآلو (Zardaloo) - Apricot;Fruit
- انگور (Angoor) - Grape;Fruit
- هندوانه (Hendovaneh) - Watermelon;Fruit
- خرما (Khorma) - Date;Fruit
- انبه (Anbeh) - Mango;Fruit
- هل (Hal) - Cardamom;Fruit
- توت (Toot) - Berry;Fruit
- گوجه‌فرنگی (Gojeh-farangi) - Tomato;Fruit
- آلو (Aloo) - Cherry;Fruit
- لیمو (Limoo) - Lemon;Fruit
- نارنگی (Narangi) - Tangerine;Fruit
- انار (Anar) - Pomegranate;Fruit
- توت‌فرنگی (Toot-farangi) - Strawberry;Fruit
- آووکادو (Avocado) - Avocado;Fruit
- مهندس (Mohandes) - Engineer;Job
- پزشک (Pezeshk) - Doctor;Job
- معلم (Moallem) - Teacher;Job
- وکیل (Vakil) - Lawyer;Job
- نماینده فروش (Nemayandeh Foroush) - Sales Representative;Job
- برنامه‌نویس (Barnamenevis) - Programmer;Job
- مدیر (Modir) - Manager;Job
- معمار (Memar) - Architect;Job
- روزنامه‌نگار (Ruznamegar) - Journalist;Job
- بازیگر (Bazigar) - Actor/Actress;Job
- آموزشگر (Amuzeshgar) - Instructor;Job
- پلیس (Polis) - Police Officer;Job
- پرستار (Parastar) - Nurse;Job
- آشپز (Ashpaz) - Chef;Job
- نجار (Najar) - Carpenter;Job
- راننده (Ranandeh) - Driver;Job
- پستچی (Postchi) - Mail Carrier;Job
- کارگر (Kargar) - Worker;Job
- کشاورز (Keshavarz) - Farmer;Job
- کارآفرین (Karafarin) - Entrepreneur;Job
- مشاور مالی (Moshaver-e Mali) - Financial Advisor;Job
- مددکار اجتماعی (Madadkar-e Ejtemaei) - Social Worker;Job
- طراح (Tarah) - Designer;Job
- کارگردان (Kargerdan) - Director;Job
- دستیار پزشکی (Dastyar-e Pezeshki) - Medical Assistant;Job
- فروشنده (Foroushandeh) - Salesperson;Job
- محقق (Tahqiqgar) - Researcher;Job
- مدیر فروش (Modir-e Foroush) - Sales Manager;Job
- تکنسین (Technician) - Technician;Job
- مدیر پروژه (Modir-e Project) - Project Manager;Job
- نیویورک (New York);City
- لندن (London);City
- پاریس (Paris);City
- طوکیو (Tokyo);City
- رم (Rome);City
- شنگهای (Shanghai);City
- دبی (Dubai);City
- استانبول (Istanbul);City
- بانکوک (Bangkok);City
- مسکو (Moscow);City
- هنگ کنگ (Hong Kong);City
- لس آنجلس (Los Angeles);City
- کایرو (Cairo);City
- برلین (Berlin);City
- دهلی (Delhi);City
- سئول (Seoul);City
- سیدنی (Sydney);City
- ریو دو ژانیرو (Rio de Janeiro);City
- مادرید (Madrid);City
- آتن (Athens);City
- تورنتو (Toronto);City
- واشنگتن دی سی (Washington, D;City
- شیکاگو (Chicago);City
- سان فرانسیسکو (San Francisco);City
- کوالالامپور (Kuala Lumpur);City
- استکهلم (Stockholm);City
- کوپنهاگ (Copenhagen);City
- کلکاته (Kolkata);City
- وین (Vienna);City
- مونیخ (Munich);City
- ایران (Iran);Country
- آمریکا (America);Country
- کانادا (Canada);Country
- چین (China);Country
- روسیه (Russia);Country
- هند (India);Country
- برزیل (Brazil);Country
- استرالیا (Australia);Country
- فرانسه (France);Country
- آلمان (Germany);Country
- انگلیس (England);Country
- ایتالیا (Italy);Country
- ژاپن (Japan);Country
- اسپانیا (Spain);Country
- مکزیک (Mexico);Country
- ترکیه (Turkey);Country
- هلند (Netherlands);Country
- سوئیس (Switzerland);Country
- بلژیک (Belgium);Country
- سوئد (Sweden);Country
- دانمارک (Denmark);Country
- نروژ (Norway);Country
- فنلاند (Finland);Country
- پرتغال (Portugal);Country
- گریس (Greece);Country
- مصر (Egypt);Country
- جنوب افریقا (South Africa);Country
- ارژانتین (Argentina);Country
- کلمبیا (Colombia);Country
- کره جنوبی (South Korea);Country
-کلاه کاسکت (Kolah Casquet) - Casquet cap;Object
+name;cat
+کتابخانه (Ketabkhane) - Library;Object
+کامپیوتر (Computer) - Computer;Object
+گوشی موبایل (Gushi Mobile) - Mobile Phone;Object
+لپ تاپ (Laptop) - Laptop;Object
+میز (Miz) - Table;Object
+صندلی (Sandali) - Chair;Object
+ماشین (Machine) - Car;Object
+کمد (Komod) - Wardrobe;Object
+تلویزیون (Television) - Television;Object
+کرسی (Korsi) - Stool;Object
+کتاب (Ketab) - Book;Object
+میز نهارخوری (Miz-e Naharkhori) - Dining Table;Object
+یخچال (Yakhchal) - Refrigerator;Object
+فریزر (Freezer) - Freezer
+کرکره (Korkoreh) - Curtain;Object
+سرویس خواب (Sarvis-e Khwab) - Bedroom Set;Object
+پنجره (Panjare) - Window;Object
+درب (Darb) - Door;Object
+تخت (Takht) - Bed;Object
+چراغ (Charagh) - Lamp;Object
+ساعت دیواری (Saat-e Divari) - Wall Clock;Object
+لامپ (Lamp) - Bulb;Object
+پتو (Pato) - Blanket;Object
+بالش (Balush) - Pillow;Object
+مبل (Mobl) - Sofa;Object
+کتیبه (Katibeh) - Plaque;Object
+زیرپایی (Zirpaei) - Carpet;Object
+پارچه (Parcheh) - Fabric;Object
+میز تلویزیون (Miz-e Television) - TV Stand;Object
+آینه (Ainah) - Mirror;Object
+گنجه (Gonjeh) - Safe;Object
+ترموستات (Thermostat) - Thermostat;Object
+پرده (Parcheh-ye Panjare) - Window Curtain;Object
+میز (Miz-e Rumizi) - Desk;Object
+میز آشپزخانه (Miz-e Ashpazkhane) - Kitchen Table;Object
+قفسه (Ghafaseh) - Shelf;Object
+لباس شستشو (Lebas-e Shostesho) - Laundry Basket;Object
+آباژور (Abajour) - Lampshade;Object
+میز کتاب‌خوانی (Miz-e Ketabkhan) - Study Table;Object
+تلفن (Telephone) - Telephone;Object
+بشقاب (Basghab) - Plate;Object
+قاشق (Qashogh) - Spoon;Object
+چنگال (Changal) - Fork;Object
+ماگ (Mug) - Mug;Object
+کاسه (Kaseh) - Bowl;Object
+شیشه (Ghabeli) - Glass;Object
+کارت (Card) - Card;Object
+کیف پول (Kif-e Pool) - Wallet;Object
+کفش (Kafsh) - Shoe;Object
+کلاه (Kolah) - Hat;Object
+لباس (Lebas) - Clothes;Object
+کلاه کتانی (Kolah-e Katan) - Straw Hat;Object
+کلاه ورزشی (Kolah-e Varzeshi) - Sports Cap;Object
+کیف (Kif) - Bag;Object
+کمربند (Kamarband) - Belt;Object
+دستکش (Dastkosh) - Gloves;Object
+ساعت مچی (Saat-e Machi) - Wristwatch;Object
+زنجیر (Zanjir) - Chain;Object
+دستبند (Dastband) - Bracelet;Object
+گردنبند (Gardanband) - Necklace;Object
+گوشواره (Goshoare) - Earring;Object
+ستاره (Setareh) - Star;Object
+آفتاب (Aftab) - Sun;Object
+کلید (Kelid) - Key;Object
+قفل (Ghofl) - Lock;Object
+تابلو (Tablo) - Painting;Object
+نقاشی (Naghashi) - Drawing;Object
+عکس (Aks) - Photo;Object
+مداد (Medad) - Pencil;Object
+پاکت (Paket) - Pocket;Object
+دفتر (Daftar) - Notebook;Object
+مداد رنگی (Medad-e Rangi) - Colored Pencil;Object
+خودکار (Khodkar) - Pen;Object
+پاپیون (Papion) - Bowtie;Object
+ساعت جیبی (Saat-e Jibi) - Pocket Watch;Object
+سرپیچ (Sarpich) - Screw;Object
+پیچ (Pich) - Bolt;Object
+متر (Meter) - Meter;Object
+پایه (Payeh) - Stand;Object
+ابریشم (Abrisham) - Silk;Object
+سوپاپ (Supap) - Valve;Object
+شامپو (Shampoo) - Shampoo;Object
+مسواک (Meswak) - Toothbrush;Object
+خمیر دندان (Khamir-e Dandan) - Toothpaste;Object
+اسکناس (Eskanass) - Banknote;Object
+سکه (Sekke) - Coin;Object
+کارت اعتباری (Kart-e Etebari) - Credit Card;Object
+مومیایی (Mummyayi) - Mummy;Object
+دلقک (Delghak) - Clown;Object
+چلچراغ (Chelcheragh) - Chandelier;Object
+کلاه کاسکت (Kolah Casquet) - Helmet;Object
 شلوار جین با کمر بلند (Shalvar Jean Ba Kamar Boland) - High-waisted jeans;Object
-کفش  (Kafsh ) -  shoe;Object
-بادبزن (Badbezan) - Windmill;Object
-لوسیون  (Losion ) - Skin lotion;Object
-کتابخانه  (Ketabkhaneh-e Sargarmi) -  library;Object
+کفش (Kafsh) - Shoe;Object
+بادبزن (Badbezan) - Fan;Object
+لوسیون (Losion) - Lotion;Object
+کتابخانه (Ketabkhaneh-e Sargarmi) - Library;Object
 سماور (Samaavar) - Samovar;Object
-زیردریایی (Zirsaazi) - Underlayment;Object
+زیردریایی (Zirsaazi) - Submarine;Object
 سنگ چینی (Sang-e Cheeni) - Porcelain;Object
-مگنت (Meghnatisi) - Magnetic;Object
+مگنت (Meghnatisi) - Magnet;Object
 پتو کرکی (Peto Karki) - Fleece blanket;Object
 چراغ خاموش (Cheragh-e Khamoosh) - Dim light;Object
 قیچی برقی (Qeychi-e Barghi) - Electric scissors;Object
-آب پاش  (Pakhsh Konande Ab) - Water dispenser;Object
+آب پاش (Pakhsh Konande Ab) - Sprinkler;Object
 دیسک هواپیما (Disk Havapeyma) - Airplane disc;Object
 شاخه گل (Shakhe Gol) - Flower branch;Object
-ناخن‌گیر (Nakhangir) - Nail catcher;Object
+ناخن‌گیر (Nakhangir) - Nail clipper;Object
+قلم نوری (Qalam-e noor) - Light pen;Object
+گردو شکن (Gerdu shekan) - Nutcracker;Object
+سنگ مهر (Sang-e mohr) - Seal stone;Object
+کولر گازی (Cooler-e Gazee) - Air Conditioner;Object
+اره برقی (Arre-e Barghi) - Electric Saw;Object
+جاروبرقی (Jaroo Barghi) - Vacuum Cleaner;Object
+ماشین لباسشویی (Machine-e Lebaseshoyi) - Washing Machine;Object
+جعبه ابزار (Jabe Abzar) - Toolbox;Object
+تلویزیون هوشمند (Television-e Hushmand) - Smart TV;Object
+ماشین روباز (Machine-e Robaz) - Convertible;Object
+ماشین ظرفشویی (Machine-e Zarfshoyi) - Dishwasher;Object
+دوربین عکاسی (Dorbin-e Akasi) - Camera;Object
+میز تحریر (Miz-e Tahvir) - Writing Desk;Object
+سایه بان (Saye Ban) - Sunshade;Object
+دوچرخه سواری (Docharkhe Savari) - Bicycle;Object
+کولر آبی (Cooler-e Abi) - Water Cooler;Object
+سشوار (Seshvar) - Hairdryer;Object
+قفس پرندگان (Ghafs-e Parandegan) - Birdcage;Object
+دستگاه اسکنر (Dastgah-e Scanner) - Scanner;Object
+لامپ چشمی (Lamp-e Cheshmi) - Reading Lamp;Object
+سنگ جادویی (Sang-e jadu'i) - Magic stone;Object
+تخته سیاه (Takhte siyah) - Blackboard;Object
+فرش (Farsh) - Rug;Object
+چراغ قوه (Cheragh-e qaveh) - Flashlight;Object
+لیوان (Livani) - Cup;Object
+کاسه سوپ (Kase-ye sup) - Soup bowl;Object
+قندان (Ghandan) - Sugar bowl;Object
+نمک پاش (Namak-pash) - Salt shaker;Object
+فنجان (Fenjan) - Cup;Object
+گلدان (Goldan) - Vase;Object
+آبپاش (Abpash) - Watering can;Object
+تابلو اعلانات (Tablo-ye e'lanat) - Bulletin board;Object
+تلفن همراه (Telefon-e hamrah) - Mobile phone;Object
+ساعت زنگ‌دار (Saat-e zangdar) - Alarm clock;Object
+دسته کلید (Daste-ye kelid) - Key chain;Object
+کیف دستی (Kif-e dasti) - Handbag;Object
+عینک آفتابی (Ainak-e aftabi) - Sunglasses;Object
+جوراب (Jorab) - Socks;Object
+دستمال گردن (Dastmal-e gardan) - Scarf;Object
+ساعت دیواری بزرگ (Saat-e divari-ye bozorg) - Large wall clock;Object
+کابینت (Kabinat) - Cabinet;Object
+کتابخانه چوبی (Ketabkhane-ye choobi) - Wooden bookcase;Object
+قالیچه (Ghaliche) - Small rug;Object
+پوشه (Pushe) - Folder;Object
+جعبه (Jabeh) - Box;Object
+لوازم تحریر (Lavazem-e tahrir) - Stationery;Object
+برگه (Bargeh) - Sheet of paper;Object
+کتابچه (Ketabche) - Booklet;Object
+کارتن (Karton) - Cardboard box;Object
+مداد تراش (Medad-tarash) - Pencil sharpener;Object
+زیر لیوانی (Zir-livani) - Coaster;Object
+سطل زباله (Satl-e zobaleh) - Trash can;Object
+فایل (File) - File;Object
+چراغ رومیزی (Cheragh-e rumizi) - Desk lamp;Object
+قلم (Qalam) - Pen;Object
+پایه مبل (Paye-ye mobl) - Sofa leg;Object
+پتوی مسافرتی (Patou-ye mosaferati) - Travel blanket;Object
+قاب عکس (Ghab-e aks) - Picture frame;Object
+دستگاه کپی (Dastgah-e kopi) - Photocopy machine;Object
+پریز برق (Priz-e bargh) - Electrical outlet;Object
+سیم شارژر (Sim-e sharzher) - Charger cable;Object
+کلید برق (Kelid-e bargh) - Light switch;Object
+قفل در (Ghofl-e dar) - Door lock;Object
+مبل راحتی (Mobl-e rahati) - Armchair;Object
+صندلی راحتی (Sandali-ye rahati) - Recliner;Object
+سیم تلفن (Sim-e telefon) - Telephone cord;Object
+پرده کرکره (Parde-ye korkoreh) - Venetian blind;Object
+چادر مسافرتی (Chador-e mosaferati) - Camping tent;Object
+گربه (Gorbe) - Cat;Animal
+سگ (Sag) - Dog;Animal
+خرگوش (Khargoosh) - Rabbit;Animal
+موش (Moosh) - Mouse;Animal
+خوک (Khook) - Pig;Animal
+گاو (Gav) - Cow;Animal
+گوسفند (Goosfand) - Sheep;Animal
+بز (Boz) - Goat;Animal
+اسب (Asb) - Horse;Animal
+الاغ (Alagh) - Donkey;Animal
+زنبور (Zanboor) - Bee;Animal
+کبوتر (Kabootar) - Pigeon;Animal
+کفتار (Koftar) - Hyena;Animal
+بلبل (Bolbol) - Nightingale;Animal
+پرنده (Parandeh) - Bird;Animal
+پلنگ (Palang) - Leopard;Animal
+گراز (Giraz) - Boar;Animal
+شیر (Shir) - Lion;Animal
+ببر (Babar) - Tiger;Animal
+خرس (Khers) - Bear;Animal
+گرگ (Gorg) - Wolf;Animal
+روباه (Rubah) - Fox;Animal
+زرافه (Zarafah) - Giraffe;Animal
+افعی (Afaee) - Viper;Animal
+مار (Mar) - Snake;Animal
+عقرب (Aghrab) - Scorpion;Animal
+مارمولک (Marmoolak) - Lizard;Animal
+سنجاب (Sanjab) - Squirrel;Animal
+کوالا (Koala) - Koala;Animal
+پاندا (Panda) - Panda;Animal
+زنبورعسل (Zanboor-e Asal) - Honeybee;Animal
+گورکن (Gurkan) - Badger;Animal
+شتر (Shotor) - Camel;Animal
+فیل (Fil) - Elephant;Animal
+جوجه تیغی (Jooje Tiqee) - Hedgehog;Animal
+همستر (Hamsarad) - Hamster;Animal
+گوزن (Goozan) - Deer;Animal
+کوسه (Kooshe) - Shark;Animal
+اژدها (Azhdaha) - Dragon;Animal
+آهو (Ahu) - Deer;Animal
+مورچه (Morche) - Ant;Animal
+شمپانزه (Chimpanzee) - Chimpanzee;Animal
+گوریل (Goril) - Gorilla;Animal
+اردک (Ardek) - Duck;Animal
+مرغ (Morgh) - Chicken;Animal
+غاز (Ghaz) - Goose;Animal
+جوجه (Jooje) - Chick;Animal
+پنگوئن (Penguin) - Penguin;Animal
+خر (Khorbaz) - Donkey;Animal
+کلاغ (Kalagh) - Crow;Animal
+قرقاول (Gorghaoul) - Pheasant;Animal
+پلیکان (Parikan) - Pelican;Animal
+بوفالو (Buffalo) - Buffalo;Animal
+گاومیش (Gavmish) - Bison;Animal
+شترمرغ (Shotor Morgh) - Ostrich;Animal
+خزنده (Khozande) - Reptile;Animal
+گوهرشکار (Gouharshkar) - Hawk;Animal
+جغد (Joghd) - Owl;Animal
+پیشه (Pishzan) - Quail;Animal
+بوقلمون (Buqalmoon) - Turkey;Animal
+لاک‌پشت (Lakposht) - Turtle;Animal
+زالو (Zalo) - Leech;Animal
+پروانه (Parvane) - Butterfly;Animal
+شپش (Shaposh) - Louse;Animal
+تیره‌تیغی (Tir-e Tiqee) - Porcupine;Animal
+سیمرغ (Simorgh) - Simurgh;Animal
+اژدهای آتشین (Azhdaha-ye Atashin) - Fire-breathing Dragon;Animal
+میمون (Meymoon) - Monkey;Animal
+کرم (Kerm) - Worm;Animal
+خرس‌کوهی (Khers-kouhi) - Mountain Bear;Animal
+خوک‌خوار (Khookhvar) - Pig-eater;Animal
+بلبل‌زبان (Bolbol-zaban) - Nightingale-tongued;Animal
+چراق (Char) - Grazing animal;Animal
+بز (Boz-ahang) - Goat-singer;Animal
+سوسمار (Sousmar) - Lizard;Animal
+عقاب (Aqab) - Eagle;Animal
+بادبادک (Badbadak) - Kite;Animal
+مرغابی (Morghabi) - Duck;Animal
+بلدرچین (Baladarchin) - Quail;Animal
+خرطوم (Khortoom) - Trunk;Animal
+کفتر (Koftar) - Pigeon;Animal
+کلاغ‌چه (Kalagh-cheh) - Small crow;Animal
+کبک (Kobok) - Partridge;Animal
+آوازخوان (Aavazkhwan) - Singer;Animal
+دندان‌شکن (Dandan-shekkan) - Toothbreaker;Animal
+بوق‌بوق (Boqboq) - Honk;Animal
+خرچنگ آبی (Khorchang abi) - Blue crab;Animal
+کوسه سفید (Kooshe sefid) - White shark;Animal
+مار آبی (Mar abi) - Blue snake;Animal
+پروانه آبی (Parvaneh-ye abi) - Blue butterfly;Animal
+عنکبوت (Ankaboot) - Spider;Animal
+قورباغه (Ghoorbagheh) - Frog;Animal
+کفتار خالدار (Koftar-e khaldar) - Spotted hyena;Animal
+شیر دریایی (Shir-e daryayi) - Sea lion;Animal
+پنگوئن امپراتور (Penguin-e emperaator) - Emperor penguin;Animal
+زنبور عسل بزرگ (Zanboor-e asal-e bozorg) - Large honeybee;Animal
+مورچه آتشین (Mooche-ye atashin) - Fire ant;Animal
+زنبور وحشی (Zanboor-e vahshi) - Wasp;Animal
+پشه (Pashe) - Mosquito;Animal
+ملخ (Malakh) - Grasshopper;Animal
+سوسک (Soosk) - Cockroach;Animal
+سگ آبی (Sag-e abi) - Otter;Animal
+گربه وحشی (Gorbe-ye vahshi) - Wildcat;Animal
+میمون عنکبوتی (Meymoon-e ankabooti) - Spider monkey;Animal
+سیمرغ بال طلایی (Simorgh-e bal-e talayi) - Golden-winged Simurgh;Animal
+ببر بنگال (Babr-e Bengal) - Bengal tiger;Animal
+شیر کوهی (Shir-e kouhi) - Mountain lion;Animal
+خرس قطبی (Khers-e ghotbi) - Polar bear;Animal
+گرگ خاکستری (Gorg-e khakestari) - Gray wolf;Animal
+عقاب سرسفید (Oghab-e sar-safid) - Bald eagle;Animal
+مرغ ماهی‌خوار (Morgh-e mahi-khwar) - Heron;Animal
+خرس پاندا (Khers-e panda) - Panda bear;Animal
+فیل آسیایی (Fil-e asiyayi) - Asian elephant;Animal
+کوسه سرچکشی (Koose-ye sar-chakoshe) - Hammerhead shark;Animal
+آهوی مشکین (Ahu-ye meshkin) - Musk deer;Animal
+مار پیتون (Mar-e python) - Python;Animal
+لاک پشت سبز (Lakposht-e sabz) - Green turtle;Animal
+شترمرغ صحرایی (Shotor morgh-e sahra'i) - Desert ostrich;Animal
+گوریل کوهی (Goril-e kouhi) - Mountain gorilla;Animal
+کرگدن (Kargadan) - Rhino;Animal
+هشت‌پا (Hasht-pa) - Octopus;Animal
+دلفین (Dolphin) - Dolphin;Animal
+خروس (Khoroos) - Rooster;Animal
+کلاغ سفید (Kalagh-e sefid) - White crow;Animal
+چغندر (Choghandar) - Beet;Fruit
+سیب (Sib) - Apple;Fruit
+پرتقال (Porteghal) - Orange;Fruit
+موز (Moz) - Banana;Fruit
+هلو (Holoo) - Peach;Fruit
+خیار (Khiar) - Cucumber;Fruit
+خرمالو (Kharbaloo) - Persimmon;Fruit
+زردآلو (Zardaloo) - Apricot;Fruit
+انگور (Angoor) - Grape;Fruit
+هندوانه (Hendovaneh) - Watermelon;Fruit
+خرما (Khorma) - Date;Fruit
+انبه (Anbeh) - Mango;Fruit
+هل (Hal) - Cardamom;Fruit
+توت (Toot) - Berry;Fruit
+گوجه‌فرنگی (Gojeh-farangi) - Tomato;Fruit
+آلو (Aloo) - Plum;Fruit
+لیمو (Limoo) - Lemon;Fruit
+نارنگی (Narangi) - Tangerine;Fruit
+انار (Anar) - Pomegranate;Fruit
+توت‌فرنگی (Toot-farangi) - Strawberry;Fruit
+آووکادو (Avocado) - Avocado;Fruit
+گیلاس (Gilaas) - Cherry;Fruit
+نارگیل (Nargil) - Coconut;Fruit
+لیمو شیرین (Limoo shirin) - Sweet lemon;Fruit
+بلوبری (Blueberry) - Blueberry;Fruit
+زیتون (Zeytoon) - Olive;Fruit
+شلیل (Shalil) - Nectarine;Fruit
+هندوانه سفید (Hendvaneh sefid) - White watermelon;Fruit
+توت سفید (Toot sefid) - White mulberry;Fruit
+آلبالو (Albaloo) - Sour cherry;Fruit
+تمشک (Tamashk) - Raspberry;Fruit
+کیوی (Kiwi) - Kiwi;Fruit
+خیار درختی (Khiar-e derakhti) - Starfruit;Fruit
+پاپایا (Papaya) - Papaya;Fruit
+عناب (Annab) - Jujube;Fruit
+قره قروت (Ghareh ghorout) - Dried yogurt;Fruit
+زرشک (Zereshk) - Barberry;Fruit
+بامیه (Bamiyeh) - Okra;Fruit
+لیمو عمانی (Limoo omani) - Dried lime;Fruit
+ازگیل (Azgil) - Medlar;Fruit
+میوه کاکتوس (Miveh-ye kaktus) - Cactus fruit;Fruit
+گلابی (Golabi) - Pear;Fruit
+سیب سبز (Sib-e sabz) - Green apple;Fruit
+شاه توت (Shah toot) - Blackberry;Fruit
+آناناس (Ananas) - Pineapple;Fruit
+انجیر (Anjir) - Fig;Fruit
+مویز (Moviz) - Raisin;Fruit
+پسته (Pesteh) - Pistachio;Fruit
+گردو (Gerdoo) - Walnut;Fruit
+بادام (Badam) - Almond;Fruit
+مهندس (Mohandes) - Engineer;Job
+پزشک (Pezeshk) - Doctor;Job
+معلم (Moallem) - Teacher;Job
+وکیل (Vakil) - Lawyer;Job
+نماینده فروش (Nemayandeh Foroush) - Sales Representative;Job
+برنامه‌نویس (Barnamenevis) - Programmer;Job
+مدیر (Modir) - Manager;Job
+معمار (Memar) - Architect;Job
+روزنامه‌نگار (Ruznamegar) - Journalist;Job
+بازیگر (Bazigar) - Actor/Actress;Job
+آموزشگر (Amuzeshgar) - Instructor;Job
+پلیس (Polis) - Police Officer;Job
+پرستار (Parastar) - Nurse;Job
+آشپز (Ashpaz) - Chef;Job
+نجار (Najar) - Carpenter;Job
+راننده (Ranandeh) - Driver;Job
+پستچی (Postchi) - Mail Carrier;Job
+کارگر (Kargar) - Worker;Job
+کشاورز (Keshavarz) - Farmer;Job
+کارآفرین (Karafarin) - Entrepreneur;Job
+مشاور مالی (Moshaver-e Mali) - Financial Advisor;Job
+مددکار اجتماعی (Madadkar-e Ejtemaei) - Social Worker;Job
+طراح (Tarah) - Designer;Job
+کارگردان (Kargerdan) - Director;Job
+دستیار پزشکی (Dastyar-e Pezeshki) - Medical Assistant;Job
+فروشنده (Foroushandeh) - Salesperson;Job
+محقق (Tahqiqgar) - Researcher;Job
+مدیر فروش (Modir-e Foroush) - Sales Manager;Job
+تکنسین (Technician) - Technician;Job
+مدیر پروژه (Modir-e Project) - Project Manager;Job
+آتش‌نشان (Atashneshan) - Firefighter;Job
+دانشجو (Daneshjoo) - Student;Job
+استاد دانشگاه (Ostad-e daneshgah) - University professor;Job
+عکاس (Akkas) - Photographer;Job
+مکانیک (Mechanic) - Mechanic;Job
+خیاط (Khayat) - Tailor;Job
+قصاب (Ghassab) - Butcher;Job
+نانوا (Nanva) - Baker;Job
+بنا (Banna) - Builder;Job
+آهنگساز (Ahangsaz) - Composer;Job
+خواننده (Khavandeh) - Singer;Job
+نوازنده (Navazandeh) - Musician;Job
+روانشناس (Ravanshenas) - Psychologist;Job
+متخصص تغذیه (Motekhases-e taghziyeh) - Nutritionist;Job
+آرایشگر (Arayeshgar) - Hairdresser;Job
+لوله کش (Loolehkesh) - Plumber;Job
+نقاش (Naqash) - Painter;Job
+برقکار (Barghkar) - Electrician;Job
+ورزشکار (Varzeshkar) - Athlete;Job
+سیاستمدار (Siyasatmadar) - Politician;Job
+فرمانده (Farmandeh) - Commander;Job
+سرباز (Sarbaz) - Soldier;Job
+خلبان (Khalaban) - Pilot;Job
+فضانورد (Faznavard) - Astronaut;Job
+زمین‌شناس (Zamin-shenas) - Geologist;Job
+زیست‌شناس (Zist-shenas) - Biologist;Job
+فیزیکدان (Fizikdan) - Physicist;Job
+شیمیدان (Shimidan) - Chemist;Job
+نیویورک (New York) - New York;City
+لندن (London) - London;City
+پاریس (Paris) - Paris;City
+طوکیو (Tokyo) - Tokyo;City
+رم (Rome) - Rome;City
+شنگهای (Shanghai) - Shanghai;City
+دبی (Dubai) - Dubai;City
+استانبول (Istanbul) - Istanbul;City
+بانکوک (Bangkok) - Bangkok;City
+مسکو (Moscow) - Moscow;City
+هنگ کنگ (Hong Kong) - Hong Kong;City
+لس آنجلس (Los Angeles) - Los Angeles;City
+کایرو (Cairo) - Cairo;City
+برلین (Berlin) - Berlin;City
+دهلی (Delhi) - Delhi;City
+سئول (Seoul) - Seoul;City
+سیدنی (Sydney) - Sydney;City
+ریو دو ژانیرو (Rio de Janeiro) - Rio de Janeiro;City
+مادرید (Madrid) - Madrid;City
+آتن (Athens) - Athens;City
+تورنتو (Toronto) - Toronto;City
+شیکاگو (Chicago) - Chicago;City
+سان فرانسیسکو (San Francisco) - San Francisco;City
+کوالالامپور (Kuala Lumpur) - Kuala Lumpur;City
+استکهلم (Stockholm) - Stockholm;City
+کوپنهاگ (Copenhagen) - Copenhagen;City
+کلکاته (Kolkata) - Kolkata;City
+وین (Vienna) - Vienna;City
+مونیخ (Munich) - Munich;City
+بوئنوس آیرس (Buenos Aires) - Buenos Aires;City
+پکن (Pekin) - Beijing;City
+مکزیکو سیتی (Mexico City) - Mexico City;City
+لگوس (Lagos) - Lagos;City
+قاهره (Ghahere) - Cairo;City
+سائو پائولو (Sao Paolo) - Sao Paulo;City
+ژوهانسبورگ (Johannesburg) - Johannesburg;City
+سنگاپور (Singapore) - Singapore;City
+هلسینکی (Helsinki) - Helsinki;City
+اسلو (Oslo) - Oslo;City
+بروسل (Brussels) - Brussels;City
+امستردام (Amsterdam) - Amsterdam;City
+دوبلین (Dublin) - Dublin;City
+اسکندریه (Alexandria) - Alexandria;City
+دمشق (Damascus) - Damascus;City
+بمبئی (Mumbai) - Mumbai;City
+لاهور (Lahore) - Lahore;City
+کراچی (Karachi) - Karachi;City
+کابل (Kabul) - Kabul;City
+بغداد (Baghdad) - Baghdad;City
+رباط (Rabat) - Rabat;City
+الجزیره (Algiers) - Algiers;City
+سانتیاگو (Santiago) - Santiago;City
+لیما (Lima) - Lima;City
+بگوتا (Bogota) - Bogota;City
+لاپاز (La Paz) - La Paz;City
+دالاس (Dallas) - Dallas;City
+اوکلند (Auckland) - Auckland;City
+ونکوور (Vancouver) - Vancouver;City
+ایران (Iran) - Iran;Country
+آمریکا (America) - America;Country
+کانادا (Canada) - Canada;Country
+چین (China) - China;Country
+روسیه (Russia) - Russia;Country
+هند (India) - India;Country
+برزیل (Brazil) - Brazil;Country
+استرالیا (Australia) - Australia;Country
+فرانسه (France) - France;Country
+آلمان (Germany) - Germany;Country
+انگلیس (England) - England;Country
+ایتالیا (Italy) - Italy;Country
+ژاپن (Japan) - Japan;Country
+اسپانیا (Spain) - Spain;Country
+مکزیک (Mexico) - Mexico;Country
+ترکیه (Turkey) - Turkey;Country
+هلند (Netherlands) - Netherlands;Country
+سوئیس (Switzerland) - Switzerland;Country
+بلژیک (Belgium) - Belgium;Country
+سوئد (Sweden) - Sweden;Country
+دانمارک (Denmark) - Denmark;Country
+نروژ (Norway) - Norway;Country
+فنلاند (Finland) - Finland;Country
+پرتغال (Portugal) - Portugal;Country
+گریس (Greece) - Greece;Country
+مصر (Egypt) - Egypt;Country
+جنوب افریقا (South Africa) - South Africa;Country
+ارژانتین (Argentina) - Argentina;Country
+کلمبیا (Colombia) - Colombia;Country
+کره جنوبی (South Korea) - South Korea;Country
+نیوزلند (New Zealand) - New Zealand;Country
+مالزی (Malaysia) - Malaysia;Country
+فیلیپین (Philippines) - Philippines;Country
+اندونزی (Indonesia) - Indonesia;Country
+تایلند (Thailand) - Thailand;Country
+ویتنام (Vietnam) - Vietnam;Country
+سنگاپور (Singapore) - Singapore;Country
+عربستان سعودی (Saudi Arabia) - Saudi Arabia;Country
+امارات متحده عربی (United Arab Emirates) - United Arab Emirates;Country
+قطر (Qatar) - Qatar;Country
+کویت (Kuwait) - Kuwait;Country
+عراق (Iraq) - Iraq;Country
+سوریه (Syria) - Syria;Country
+لبنان (Lebanon) - Lebanon;Country
+اسرائیل (Israel) - Israel;Country
+پاکستان (Pakistan) - Pakistan;Country
+افغانستان (Afghanistan) - Afghanistan;Country
+پرو (Peru) - Peru;Country
+شیلی (Chile) - Chile;Country
+ونزوئلا (Venezuela) - Venezuela;Country
+اروگوئه (Uruguay) - Uruguay;Country
+ایرلند (Ireland) - Ireland;Country
+اسکاتلند (Scotland) - Scotland;Country
+ولس (Wales) - Wales;Country
+ایسلند (Iceland) - Iceland;Country
+اتریش (Austria) - Austria;Country
+اوکراین (Ukraine) - Ukraine;Country
+لهستان (Poland) - Poland;Country
+رومانی (Romania) - Romania;Country
+بلغارستان (Bulgaria) - Bulgaria;Country
+مجارستان (Hungary) - Hungary;Country
+صربستان (Serbia) - Serbia;Country
+کرواسی (Croatia) - Croatia;Country
+بوسنی و هرزگوین (Bosnia and Herzegovina) - Bosnia and Herzegovina;Country
+سوازیلند (Swaziland) - Swaziland;Country
 کلید دروغین (Kelid-e dorughin) - False key;Magical
 ستاره گیر (Setareh gir) - Star catcher;Magical
 قفس جن (Ghafas-e jinn) - Genie cage;Magical
@@ -328,7 +543,6 @@
 پرچم همدان (Parcham-e hamedan) - Hamedan flag;Magical
 دماغه شادی (Demaqeh-e shadi) - Joy shawl;Magical
 نقاشی ابر (Naghashi-e abr) - Cloud painting;Magical
-قلم نوری (Qalam-e noor) - Light pen;Object
 کاردستی خواب (Kardasti khwab) - Dream craft;Magical
 زنجیره‌ دل (Zanjireye del) - Heart chain;Magical
 جادوگر برقی (Jadugar-e barghi) - Electric magician;Magical
@@ -339,31 +553,10 @@
 عینک عقب (Ainak-e aghab) - Reverse glasses;Magical
 سازه فانتزی (Sazeh-e fantasy) - Fantasy instrument;Magical
 کتاب نقره‌ای (Ketab-e naghreh-ee) - Silver book;Magical
-گردو شکن (Gerdu shekan) - Walnut breaker;Object
 فانوس هوشمند (Fanous-e hushmand) - Smart lantern;Magical
 شیطان‌ساز (Sheytan-saz) - Devil maker;Magical
 جعبه اسرار (Jabeh asrar) - Box of secrets;Magical
 کاغذ جادویی (Kaghaz-e jadu'i) - Magic paper;Magical
-سنگ مهر (Sang-e mohr) - Seal stone;Object
-کولر گازی (Cooler-e Gazee) - Air Conditioner;Object
-اره برقی (Arre-e Barghi) - Electric Saw;Object
-جاروبرقی (Jaroo Barghi) - Vacuum Cleaner;Object
-ماشین لباسشویی (Machine-e Lebaseshoyi) - Washing Machine;Object
-جعبه ابزار (Jabe Abzar) - Toolbox;Object
-تلویزیون هوشمند (Television-e Hushmand) - Smart TV;Object
-گوشی موبایل (Gushi Mobile) - Mobile Phone;Object
-ماشین روباز (Machine-e Robaz) - Lawn Mower;Object
-ماشین ظرفشویی (Machine-e Zarfshoyi) - Dishwasher;Object
-فریزر (Freezer) - Freezer;Object
-دوربین عکاسی (Dorbin-e Akasi) - Camera;Object
-میز تحریر (Miz-e Tahvir) - Writing Desk;Object
-سایه بان (Saye Ban) - Sunshade;Object
-دوچرخه سواری (Docharkhe Savari) - Bicycling;Object
-کولر آبی (Cooler-e Abi) - Water Cooler;Object
-سشوار (Seshvar) - Hairdryer;Object
-قفس پرندگان (Ghafs-e Parandegan) - Birdcage;Object
-دستگاه اسکنر (Dastgah-e Scanner) - Scanner;Object
-لامپ چشمی (Lamp-e Cheshmi) - Reading Lamp;Object
 شتر بدون کوهان (Shotor bedoon Kopen) - Camel without a hump;Magical
 گربه چشم‌دراز (Gorbe cheshm-daraz) - Long-eyed cat;Magical
 موش بدون دم (Moosh bedoon dam) - Tailless mouse;Magical
@@ -381,15 +574,42 @@
 موش سرخ (Moosh sorakh) - Red mouse;Magical
 گاو خیالی (Gav khayali) - Imaginary cow;Magical
 زرافه خفاشی (Zarafah khoofashi) - Bat giraffe;Magical
-کوسه سفید (Kooshe sefid) - White shark;Animal
-خرچنگ آبی (Khorchang abi) - Blue crab;Magical
 اسب پرنده (Asb parandeh) - Flying horse;Magical
 سگ کور (Sag koor) - Blind dog;Magical
 مار عنکبوتی (Mar ankbouti) - Spider snake;Magical
 خفاش خشک (Khoofash khoshk) - Dry bat;Magical
 کلاغ طلایی (Kalagh talayi) - Golden crow;Magical
-خرگوش پرنده (Khargoosh parandeh) - Bird rabbit;Magical
+خرگوش پرنده (Khargoosh parandeh) - Flying rabbit;Magical
 موش سوارکار (Moosh savarkar) - Riding mouse;Magical
 پلنگ چشم‌دار (Palang cheshm-dar) - Eye-eyed leopard;Magical
 گرگ نقره‌ای (Gorg naghreh-ee) - Silver wolf;Magical
-مار آبی (Mar abi) - Blue snake;Animal
+گربه آتشین (Gorbe-ye atashin) - Fire cat;Magical
+سگ سه سر (Sag-e se-sar) - Three-headed dog;Magical
+موش پرنده (Moosh-e parandeh) - Flying mouse;Magical
+خرگوش نامرئی (Khargoosh-e namar'i) - Invisible rabbit;Magical
+پرنده سخنگو (Parande-ye sokhangoo) - Talking bird;Magical
+اسب شاخدار (Asb-e shakhdar) - Unicorn;Magical
+مار پرنده (Mar-e parandeh) - Flying snake;Magical
+اژدهای یخی (Azhdaha-ye yakhi) - Ice dragon;Magical
+سگ بالدار (Sag-e baldar) - Winged dog;Magical
+کوسه زمینی (Koose-ye zamini) - Land shark;Magical
+بز کوهی بالدار (Boz-e kouhi-ye baldar) - Winged mountain goat;Magical
+پلنگ روح (Palang-e rooh) - Ghost leopard;Magical
+کلاغ هوشمند (Kalagh-e hooshmand) - Smart crow;Magical
+خرس خواب‌نما (Khers-e khwabnama) - Dream-seeing bear;Magical
+مورچه نقره‌ای (Morche-ye naghreh-ee) - Silver ant;Magical
+فیل سخنگو (Fil-e sokhangoo) - Talking elephant;Magical
+شتر دو قلو (Shotor-e do-gholo) - Twin camel;Magical
+زرافه چندرنگ (Zarafah-ye chand-rang) - Multi-colored giraffe;Magical
+سنجاب جادویی (Sanjab-e jadu'i) - Magical squirrel;Magical
+مارمولک طلایی (Marmoolak-e talayi) - Golden lizard;Magical
+ماهی بالدار (Mahi-ye baldar) - Flying fish;Magical
+عقرب یخی (Aghrab-e yakhi) - Ice scorpion;Magical
+عنکبوت درخشان (Ankaboot-e derakhshan) - Glowing spider;Magical
+قورباغه سخنگو (Ghoorbagheh-ye sokhangoo) - Talking frog;Magical
+اسب آبی پرنده (Asb-e abi-ye parandeh) - Flying hippopotamus;Magical
+گاو شیری رنگین‌کمان (Gav-e shiri-ye rangin-kaman) - Rainbow dairy cow;Magical
+گوسفند پشمالوی پرنده (Goosfand-e pashmaloo-ye parandeh) - Flying woolly sheep;Magical
+ببر سفید یخی (Babr-e sefid-e yakhi) - Ice white tiger;Magical
+پرنده آتشین (Parande-ye atashin) - Fire bird;Magical
+پلنگ آبی (Palang-e abi) - Blue leopard;Magical
